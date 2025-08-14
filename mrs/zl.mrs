@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,azip.dpdns.org
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,25u.com
+  - DOMAIN-SUFFIX,itv.cmvideo.cn
+  - IP-CIDR,60.248.127.232/24,no-resolve

@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN,xjp2.225533.xyz
+  - DOMAIN,smart.pendy.dpdns.org
+  - DOMAIN,sport.pendy.dpdns.org
+  - DOMAIN,docker.livednow.dpdns.org
+  - DOMAIN,sport.pendy.dpdns.org
+  - DOMAIN,xjp22.225533.xyz
+  - DOMAIN,dj22.225533.xyz
+  - DOMAIN,db2.225533.xyz
+  - DOMAIN,67.229.243.13
+  - DOMAIN,flkf1.225533.xyz
+  - DOMAIN,flkf2.225533.xyz
+  - DOMAIN,flkf22.225533.xyz
+  - IP-CIDR,51.158.148.5/32,no-resolve
+  - IP-CIDR,152.69.212.180/32,no-resolve
