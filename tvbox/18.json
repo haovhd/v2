@@ -1,0 +1,105 @@
+{
+	"sites": [
+		{
+			"key": "白嫖",
+			"name": "白嫖采集",
+			"type": 0,
+			"api": "https://www.kxgav.com/api/xml.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "大地",
+			"name": "大地采集",
+			"type": 0,
+			"api": "https://dadiapi.com/apple_m3u8.php",
+			"playUrl": "https://play.dadiapi.com/watch?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "番号",
+			"name": "番号采集",
+			"type": 1,
+			"api": "http://fhapi9.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "黄AV资源站",
+			"name": "AV资源",
+			"type": 0,
+			"api": "https://www.pgxdy.com/api/xml.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "奶香香",
+			"name": "奶香采集",
+			"type": 1,
+			"api": "https://naixxzy.com/api.php/provide/vod/",
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "155资源站",
+			"name": "155资源",
+			"type": 1,
+			"api": "https://155api.com/api.php/provide/vod/",
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "鸡坤",
+			"name": "鸡坤采集",
+			"type": 1,
+			"api": "https://jkunzyapi.com/api.php/provide/vod/",
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "乐播",
+			"name": "乐播采集",
+			"type": 1,
+			"api": "https://lbapi9.com/api.php/provide/vod/",
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "滴滴",
+			"name": "滴滴采集",
+			"type": 1,
+			"api": "https://api.ddapi.cc/api.php/provide/vod/",
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "玉兔",
+			"name": "玉兔采集",
+			"type": 1,
+			"api": "https://apiyutu.com/api.php/provide/vod/",
+			"playUrl": "https://yutujx.com/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "proxy"
+		}
+  ]
+}
