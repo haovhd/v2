@@ -1,0 +1,35 @@
+{
+	"sites": [
+		{
+			"key": "白嫖",
+			"name": "大占白嫖",
+			"type": 0,
+			"api": "https://www.kxgav.com/api/xml.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "proxy"
+		},
+		{
+			"key": "大地",
+			"name": "大占采集",
+			"type": 0,
+			"api": "https://dadiapi.com/apple_m3u8.php",
+			"playUrl": "https://play.dadiapi.com/watch?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "番号",
+			"name": "大占番号采集",
+			"type": 1,
+			"api": "http://fhapi9.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "proxy"
+		}
+  ]
+}
