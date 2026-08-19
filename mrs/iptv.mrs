@@ -1,15 +1,39 @@
 payload:
-  - DOMAIN,xjp2.225533.xyz
   - DOMAIN,smart.pendy.dpdns.org
   - DOMAIN,sport.pendy.dpdns.org
   - DOMAIN,docker.livednow.dpdns.org
   - DOMAIN,sport.pendy.dpdns.org
-  - DOMAIN,xjp22.225533.xyz
-  - DOMAIN,dj22.225533.xyz
-  - DOMAIN,db2.225533.xyz
-  - DOMAIN,67.229.243.13
-  - DOMAIN,flkf1.225533.xyz
-  - DOMAIN,flkf2.225533.xyz
-  - DOMAIN,flkf22.225533.xyz
-  - IP-CIDR,51.158.148.5/32,no-resolve
+  - DOMAIN,4gtv.htv.dpdns.org
+  - DOMAIN,jdf2.225533.xyz
+  - DOMAIN,dj2.225533.xyz
+  - DOMAIN,olist.225533.xyz
+  - DOMAIN-SUFFIX,zzm.li
+  - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,aixj.de
+  - DOMAIN-SUFFIX,hohai.eu.org
+  - DOMAIN-SUFFIX,miorina.com
+  - DOMAIN-SUFFIX,daidaio.com
+  - DOMAIN-SUFFIX,n150.asia
+  - DOMAIN-SUFFIX,fastcdn.dpdns.org
+  - DOMAIN-SUFFIX,111660.xyz
+  - DOMAIN-SUFFIX,ccwu.cc
+  - DOMAIN-SUFFIX,us.ci
+  - DOMAIN-SUFFIX,yusen.cyou
+  - DOMAIN-SUFFIX,ciallo.party
+  - DOMAIN-SUFFIX,yuanshen.help
+  - DOMAIN-SUFFIX,inemby.us.ci
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,107771.xyz
+  - DOMAIN-SUFFIX,111848.xyz
+  - DOMAIN-SUFFIX,vincent253.us.ci
+  - DOMAIN-SUFFIX,yixia.io
+  - DOMAIN-SUFFIX,lunarisvault.com
+  - DOMAIN-SUFFIX,zhouzhou00.dpdns.org
+  - DOMAIN-SUFFIX,emby.edu.kg
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
   - IP-CIDR,152.69.212.180/32,no-resolve
+  - IP-CIDR,141.11.87.241/32,no-resolve
+  - IP-CIDR,165.154.226.214/32,no-resolve
