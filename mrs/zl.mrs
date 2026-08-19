@@ -2,6 +2,26 @@ payload:
   - DOMAIN-SUFFIX,azip.dpdns.org
   - DOMAIN-SUFFIX,spartanhost.net
   - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,apphot.cc
   - DOMAIN-SUFFIX,25u.com
   - DOMAIN-SUFFIX,itv.cmvideo.cn
+  - DOMAIN-SUFFIX,xiuxitong.com
   - IP-CIDR,60.248.127.232/24,no-resolve
+  # emby
+  - DOMAIN,haod.225533.xyz
+  - DOMAIN,kford.zzux.com
+  # 喵云
+  - IP-CIDR,119.36.194.123/24,no-resolve
+  # 联通
+  - IP-CIDR,121.29.0.0/16,no-resolve
+  # 斯巴达
+  - IP-CIDR,45.151.133.153/32,no-resolve
+  # NoBrand jp   
+  - IP-CIDR,64.204.48.89/32,no-resolve
+  # 123 云盘
+  - DOMAIN-SUFFIX,123clouddisk.com
+  - DOMAIN-SUFFIX,123pan.com
+  - DOMAIN-SUFFIX,123pan.cn
+  # 115 网盘
+  - DOMAIN-SUFFIX,115cdn.net
+  - DOMAIN-SUFFIX,115.com
