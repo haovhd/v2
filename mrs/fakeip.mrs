@@ -1,0 +1,12 @@
+payload:
+  - localhost
+  - '*.lan'
+  - '*.local'
+  - +.777996.xyz
+  - +.225533.xyz
+  - +.xiaomi.com
+  - +.mi.com
+  - +.miui.com
+  - +.mijia.com
+  - +.xiaomi.net
+  - +.oraclecloud.com
