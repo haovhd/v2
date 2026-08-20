@@ -14,8 +14,6 @@ payload:
   - IP-CIDR,119.36.194.123/24,no-resolve
   # 联通
   - IP-CIDR,121.29.0.0/16,no-resolve
-  # 斯巴达
-  - IP-CIDR,45.151.133.153/32,no-resolve
   # NoBrand jp   
   - IP-CIDR,64.204.48.89/32,no-resolve
   # 123 云盘
