@@ -11,7 +11,7 @@ payload:
   - DOMAIN,haod.225533.xyz
   - DOMAIN,kford.zzux.com
   # 喵云
-  - IP-CIDR,119.36.194.123/24,no-resolve
+  - IP-CIDR,106.55.4.156/24,no-resolve
   # 联通
   - IP-CIDR,121.29.0.0/16,no-resolve
   # NoBrand jp   
