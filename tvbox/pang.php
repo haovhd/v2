@@ -90,6 +90,6 @@
       "name": "李佳祥PHP",
       "type": 4,
       "api": "http://jiduo.3116598.xyz/PHP/pkty.php"
-    },
+    }
   ]
 }
